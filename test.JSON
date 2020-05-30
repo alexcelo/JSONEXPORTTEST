@@ -1,0 +1,32 @@
+[
+    {
+        "identifier": "0xaf28ae64b4c05f83ac4ed995ca970567e4af866b",
+        "beneficiary": "0xd72a70D62BB15d757845620fE49cC89c6066b363",
+        "releasestarttime": "2020-05-12T07:00:00.000Z",
+        "numreleaseperiods": 10,
+        "releaseperiod": 2592000,
+        "amountreleasedperperiod": 1050,
+        "revocable": false,
+        "releaseowner": "0xE4b4E5aefCF55D8c1dE712BE160F29abdDDD08C9",
+        "refundaddress": "0x0000000000000000000000000000000000000000",
+        "subjecttoliquidityprovision": false,
+        "initialdistributionratio": 1000,
+        "canvalidate": true,
+        "canvote": true
+    },
+    {
+        "identifier": "0x77fa4727ebd6b709632c8356a65dec482d89b31e",
+        "beneficiary": "0x9A941E915EED0B8AA757EDfA5E45fa4fD5F9976E",
+        "releasestarttime": "2020-05-12T07:00:00.000Z",
+        "numreleaseperiods": 10,
+        "releaseperiod": 2592000,
+        "amountreleasedperperiod": 27051,
+        "revocable": false,
+        "releaseowner": "0xE4b4E5aefCF55D8c1dE712BE160F29abdDDD08C9",
+        "refundaddress": "0x0000000000000000000000000000000000000000",
+        "subjecttoliquidityprovision": false,
+        "initialdistributionratio": 1000,
+        "canvalidate": true,
+        "canvote": true
+    }
+]
